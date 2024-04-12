@@ -1,10 +1,8 @@
 package com.camunda.tgp;
 
 import org.apache.log4j.BasicConfigurator;
-import org.junit.Test;
 import static org.junit.Assert.assertTrue;
-import junit.framework.TestCase
-;
+
 import java.util.List;
 import java.util.ArrayList;
 
